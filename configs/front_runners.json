@@ -1,0 +1,6 @@
+[
+  {"count":1, "type":"FrontRunners", "budget":13000},
+  {"count":2, "type":"FrontRunners", "budget":50000},
+  {"count":4, "type":"FrontRunners", "budget":100000},
+  {"count":1, "type":"FrontRunners", "budget":20000}
+]

@@ -1,0 +1,16 @@
+{
+  "no_weights": {
+    "init_balance_token": 1000000,
+    "init_balance_usd": 1000000,
+    "init_weight_token": 0.5,
+    "final_weight_token": 0.5,
+    "weights_update_steps": 72
+  },
+  "weights_5_95": {
+    "init_balance_token": 1000000,
+    "init_balance_usd": 1000000,
+    "init_weight_token": 0.95,
+    "final_weight_token": 0.3,
+    "weights_update_steps": 72
+  }
+}

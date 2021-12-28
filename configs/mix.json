@@ -1,0 +1,12 @@
+[
+  {"count":1, "type":"FrontRunners", "budget":13000},
+  {"count":2, "type":"FrontRunners", "budget":500000},
+  {"count":2, "type":"FrontRunners", "budget":10000},
+  {"count":1, "type":"FrontRunners", "budget":20000},
+  {"count":1, "type":"LimitOrders", "budget":100000, "target":12},
+  {"count":1, "type":"LimitOrders", "budget":100000, "target":5},
+  {"count":1, "type":"LimitOrders", "budget":500000, "target":3},
+  {"count":1, "type":"LimitOrders", "budget":1000, "target":1},
+  {"count":1, "type":"LimitOrders", "budget":10000, "target":0.7},
+  {"count":1, "type":"LimitOrders", "budget":13000, "target":0.01}
+]
